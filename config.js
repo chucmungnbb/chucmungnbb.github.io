@@ -21,7 +21,7 @@ const CONFIG = {
     poem2:'    Ngồi đây cầm bút vẽ vời\n\
     Viết thơ chúc chị rạng ngời đẹp tươi \n\
     Chúc luôn vui vẻ nụ cười\n\
-    Ngày càng thêm trẻ rạng ngời như hoa\n\
+    Ngày càng thêm trẻ rgời ngời như hoa\n\
     Chúc cho cuộc sống thuận hòa\n\
     Ngập tràn năng lượng đong đầy yêu thương.\n\
     ',
