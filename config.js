@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'Uhm, để đoán thử ',
     btnNo: 'Không biết, đoán không ra',
     question:'Chắc là',
-    reasonPlaceholder: 'Gõ bất kì nội dung gì chị nghĩ vào đây nha...',
+    reasonPlaceholder: 'Gõ bất kì những gì chị nghĩ vào đây nha...',
     btnReply: 'Send',
     reply: 'Chị à... Hôm nay là 20/10 rồi ấy, em chúc chị ngày càng xinh đẹp, tràn đầy sức khoẻ và tràn đầy năng lượng trong cuộc sống.🥳',
     poem1:'    Hôm nay, đường phố bán bông\n\
